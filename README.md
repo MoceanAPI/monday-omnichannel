@@ -50,9 +50,9 @@
 
 ![image](https://user-images.githubusercontent.com/24620178/153554028-b92b902d-3758-43e6-a50f-7ddce1541673.png)
 
-5. Enter your Mocean API Credentials and the sender
+5. Enter your Mocean API Token and the sender. API key and secret can be left empty if an API token is used
 
-![image](https://user-images.githubusercontent.com/24620178/206361287-89fdabaf-15ea-498a-9f22-4654b0653a38.png)
+![image](https://github.com/user-attachments/assets/e4d16283-ab36-4940-8d68-688cc4a40ddb)
 
 6. After you've successfully authenticated, you will be redirected back to `monday.com`
 
